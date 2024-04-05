@@ -18,7 +18,7 @@ Os negócios da empresa XYZ dependem parcialmente de receita recorrente, o que e
 
 Cada etapa desempenha um papel crucial na compreensão da dinâmica do churn das empresas que utilizam os serviços da XYZ, permitindo uma abordagem mais informada e estratégica para mitigar a perda de clientes.
 
-![Collabocats](https://octodex.github.com/images/collabocats.jpg)
+<img src="https://octodex.github.com/images/collabocats.jpg" width="400" height="400">
 
 ## [Churn prediction: usando ML para diminuir a evasão de clientes](https://github.com/olesyagalkina/portfolio/blob/main/Waze_churn_prediction_ML.ipynb)
 
@@ -28,7 +28,8 @@ Customer Churn Prediction, também conhecido como previsão de rotatividade de c
 
 Os modelos escolhidos para implementação do projeto: Random Forest e XGBoost. Link do [projeto completo](https://github.com/olesyagalkina/portfolio/blob/main/Waze_churn_prediction_ML.ipynb).
 
-![Fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="400" height="400">
+
 
 ## [Previsão de rotatividade de usuários (churn) no Waze através de Regressão Logística](https://github.com/olesyagalkina/portfolio/blob/main/analise_regressao_waze_v4.ipynb)
 
@@ -43,6 +44,8 @@ O projeto é organizado da seguinte forma:
    - Conclusões finais.
 
 [Confira o projeto completo](https://github.com/olesyagalkina/portfolio/blob/main/analise_regressao_waze_v4.ipynb).
+
+<img src="https://octodex.github.com/images/inspectocat.jpg" width="400" height="400">
 
 ## [K-means usando a foto da gatinha](https://github.com/olesyagalkina/portfolio/blob/main/K-means%20usando%20a%20foto%20da%20gatinha.ipynb)
 
