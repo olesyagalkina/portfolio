@@ -2,7 +2,8 @@
 
 Seja bem-vindo ao meu portfólio de análise e ciência de dados!
 
-![Female coder octocat](https://octodex.github.com/images/femalecodertocat.png|width=100)
+<img src="https://octodex.github.com/images/femalecodertocat.png" width="100" height="100">
+
 
 ## [Modelo de ML para prever cancelamento de contratos](https://github.com/olesyagalkina/portfolio/blob/main/Churn-contrato-%20XYZ.ipynb)
 
