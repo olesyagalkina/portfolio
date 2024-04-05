@@ -18,11 +18,19 @@ Neste projeto, estaremos desenvolvendo e avaliando um modelo de regressão logí
 
 O projeto é organizado da seguinte forma:
 
-    Análise exploratótia de dados.
-    Pressupostos de regressão logística.
-    Desenvolvimento e avaliação de modelo.
-    Interpretando os resultados do modelo.
-    Conclusões finais.
+   - Análise exploratótia de dados.
+   - Pressupostos de regressão logística.
+   - Desenvolvimento e avaliação de modelo.
+   - Interpretando os resultados do modelo.
+   - Conclusões finais.
 
 [Confira o projeto completo](https://github.com/olesyagalkina/portfolio/blob/main/analise_regressao_waze_v4.ipynb).
+
+## [K-means usando a foto da gatinha](https://github.com/olesyagalkina/portfolio/blob/main/K-means%20usando%20a%20foto%20da%20gatinha.ipynb)
+
+O objetivo desse projeto é mostrar como funciona o algoritmo k-means. Inicialmente, iremos gerar o conjunto de dados a partir da foto da minha gatinha, uma adorável SRD tricolor. Depois, aplicaremos o algoritmo k-means para agrupar os pixels da imagem com base em suas codificações de cor. Ao final, analisaremos como diferentes valores de k afetam o agrupamento de píxels, e, portanto, a aparência da foto.
+
+[Link do projeto](https://github.com/olesyagalkina/portfolio/blob/main/K-means%20usando%20a%20foto%20da%20gatinha.ipynb)
+
+![Gaia the cat](https://github.com/olesyagalkina/olesyagalkina.github.io/blob/master/images/gaia_k_20.png?raw=true)
 
