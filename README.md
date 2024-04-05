@@ -1,6 +1,23 @@
 # Portfólio de Análise e Ciência de Dados
 
+Seja bem-vindo ao meu portfólio de análise e ciência de dados!
+
 ![Female coder octocat](https://octodex.github.com/images/femalecodertocat.png)
+
+## [Modelo de ML para prever cancelamento de contratos](https://github.com/olesyagalkina/portfolio/blob/main/Churn-contrato-%20XYZ.ipynb)
+
+Neste projeto, estaremos desenvolvendo e avaliando um modelo de aprendizado de máquina com o propósito de antecipar o churn das empresas que utilizam os serviços da empresa XYZ, utilizando diversas variáveis como base para a previsão.
+
+Os negócios da empresa XYZ dependem parcialmente de receita recorrente, o que envolve contratos mensais, trimestrais ou anuais com empresas que utilizam seus serviços. Portanto, é importante identificar o potencial churn com antecedência e entender quais aspectos influenciam o churn. O projeto tem a seguinte estrutura:
+
+- Análise exploratória de dados.
+- Pré-processamento de dados.
+- Desenvolvimento e avaliação do modelo.
+- Conclusões finais.
+
+Cada etapa desempenha um papel crucial na compreensão da dinâmica do churn das empresas que utilizam os serviços da XYZ, permitindo uma abordagem mais informada e estratégica para mitigar a perda de clientes.
+
+![Collabocats](https://octodex.github.com/images/collabocats.jpg)
 
 ## [Churn prediction: usando ML para diminuir a evasão de clientes](https://github.com/olesyagalkina/portfolio/blob/main/Waze_churn_prediction_ML.ipynb)
 
