@@ -8,4 +8,19 @@ Customer Churn Prediction, também conhecido como previsão de rotatividade de c
 
 Os modelos escolhidos para implementação do projeto: Random Forest e XGBoost. Link do [projeto completo](https://github.com/olesyagalkina/portfolio/blob/main/Waze_churn_prediction_ML.ipynb).
 
+![Fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
+
+## [Previsão de rotatividade de usuários (churn) no Waze através de Regressão Logística](https://github.com/olesyagalkina/portfolio/blob/main/analise_regressao_waze_v4.ipynb)
+
+Neste projeto, estaremos desenvolvendo e avaliando um modelo de regressão logística binomial com o propósito de antecipar a rotatividade de usuários do aplicativo Waze, utilizando diversas variáveis como base para a previsão. A regressão logística é uma ferramenta valiosa para estimar a probabilidade de um resultado. Sua utilidade reside na capacidade de considerar múltiplas variáveis em relação à variável que está sendo medida.
+
+O projeto é organizado da seguinte forma:
+
+    Análise exploratótia de dados.
+    Pressupostos de regressão logística.
+    Desenvolvimento e avaliação de modelo.
+    Interpretando os resultados do modelo.
+    Conclusões finais.
+
+[Confira o projeto completo](https://github.com/olesyagalkina/portfolio/blob/main/analise_regressao_waze_v4.ipynb).
 
